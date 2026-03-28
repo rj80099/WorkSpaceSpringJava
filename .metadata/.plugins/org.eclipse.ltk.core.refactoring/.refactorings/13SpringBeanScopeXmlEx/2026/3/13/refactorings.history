@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;13SpringBeanScopeXmlEx/src/main/resources/beans.xml&apos; to &apos;scopes.xml&apos;" description="Rename resource &apos;beans.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/beans.xml" name="scopes.xml" stamp="1774699442220" updateReferences="true"/>
+</session>

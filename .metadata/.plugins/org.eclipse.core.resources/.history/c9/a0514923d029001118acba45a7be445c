@@ -1,0 +1,18 @@
+package com.app;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class MyAppConfig {
+	
+	//one method = one object
+	@Bean
+	public DriverManager conObj() {
+		DriverManager dm = new DriverManager();
+		dm.setDriverClass("SAMPLE");
+		dm.setUrl("TEST:JDBC");
+		return dm;
+	}
+
+}

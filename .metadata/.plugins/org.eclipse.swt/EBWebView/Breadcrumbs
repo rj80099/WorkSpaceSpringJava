@@ -1,0 +1,143 @@
+1:16:33 Microsoft.Shutdown.TabStripModel.CloseTabs
+1:16:33 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+1:16:33 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+1:16:33 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+1:16:33 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+1:16:33 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+1:16:33 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+1:16:33 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+1:16:33 Tab1 RenderProcessGone
+1:16:33 Microsoft.UnloadController.ClearUnloadState
+1:16:33 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+1:16:33 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+1:16:33 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+1:16:33 Microsoft.UnloadController.ClearUnloadState
+1:16:33 Browser1 Close Tab1 at 0
+1:16:33 Tab1 WebContentsDestroyed
+1:16:33 Microsoft.UnloadController.TabStripEmpty
+1:16:33 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+1:16:33 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+1:16:33 Microsoft.Shutdown.OnWindowClosing
+1:16:33 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+1:16:33 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+1:16:33 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+1:16:33 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+1:16:33 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+1:16:33 Widget Closed: BrowserWidget
+1:16:33 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+1:16:33 Microsoft.Shutdown.OnWindowClosing
+1:16:33 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+1:16:34 Microsoft.Last_Browser_Removed
+1:16:35 Microsoft.NewBrowser_Popup
+1:16:35 Microsoft.BrowserList.AddBrowser
+1:16:35 Browser4 Insert active Tab4 at 0
+1:16:35 Tab4 StartNav18 #auto_toplevel
+1:16:36 Memory Pressure: Critical
+1:16:36 Tab4 StartNav19 #typed
+1:16:36 Tab4 FinishNav19 ERR_ABORTED
+1:16:36 Tab4 StartNav20 #typed
+1:16:36 Tab4 FinishNav18
+1:16:36 Tab4 PageLoad
+1:16:36 Tab4 FinishNav20
+1:16:36 Tab4 PageLoad
+1:16:37 Memory Pressure: Moderate
+1:16:41 Tab4 StartNav21 #typed
+1:16:41 Tab4 FinishNav21
+1:16:41 Tab4 PageLoad
+1:16:47 Memory Pressure: Moderate
+1:16:57 Memory Pressure: Moderate
+1:16:58 Tab4 StartNav22 #typed
+1:16:59 Tab4 FinishNav22
+1:16:59 Tab4 PageLoad
+1:16:59 Tab4 StartNav23 #typed
+1:17:00 Tab4 FinishNav23
+1:17:00 Tab4 PageLoad
+1:17:02 Tab4 StartNav24 #typed
+1:17:02 Tab4 FinishNav24
+1:17:02 Tab4 PageLoad
+1:17:03 Tab4 StartNav25 #typed
+1:17:03 Tab4 FinishNav25
+1:17:03 Tab4 PageLoad
+1:17:07 Memory Pressure: Moderate
+1:17:15 Microsoft.NewBrowser_Popup
+1:17:15 Microsoft.BrowserList.AddBrowser
+1:17:15 Browser5 Insert active Tab5 at 0
+1:17:15 Tab5 StartNav26 #auto_toplevel
+1:17:15 Tab5 StartNav27 #typed
+1:17:15 Tab5 FinishNav26
+1:17:15 Tab5 PageLoad
+1:17:15 Tab5 FinishNav27
+1:17:15 Tab5 PageLoad
+1:17:16 Tab5 StartNav28 #typed
+1:17:16 Tab5 FinishNav28
+1:17:16 Tab5 PageLoad
+1:17:17 Tab5 StartNav29 #typed
+1:17:17 Tab5 FinishNav29
+1:17:17 Tab5 PageLoad
+1:17:17 Memory Pressure: Moderate
+1:17:21 Tab5 StartNav30 #typed
+1:17:21 Tab5 FinishNav30
+1:17:21 Tab5 PageLoad
+1:17:27 Memory Pressure: Moderate
+1:17:36 Tab5 StartNav31 #typed
+1:17:36 Tab5 FinishNav31
+1:17:36 Tab5 PageLoad
+1:17:37 Memory Pressure: Moderate
+1:17:47 Memory Pressure: Moderate
+1:17:47 Tab4 StartNav32 #typed
+1:17:47 Tab4 FinishNav32
+1:17:47 Tab4 PageLoad
+1:17:48 Tab4 StartNav33 #typed
+1:17:48 Tab4 FinishNav33
+1:17:48 Tab4 PageLoad
+1:17:49 Tab4 StartNav34 #typed
+1:17:49 Tab4 FinishNav34
+1:17:49 Tab4 PageLoad
+1:17:49 Tab4 StartNav35 #typed
+1:17:49 Tab4 FinishNav35
+1:17:49 Tab4 PageLoad
+1:17:50 Tab4 StartNav36 #typed
+1:17:50 Tab4 FinishNav36
+1:17:50 Tab4 PageLoad
+1:17:57 Memory Pressure: Moderate
+1:18:01 Tab5 StartNav37 #typed
+1:18:01 Tab5 FinishNav37
+1:18:01 Tab5 PageLoad
+1:18:07 Memory Pressure: Moderate
+1:18:17 Memory Pressure: Moderate
+1:18:19 Tab5 StartNav38 #typed
+1:18:19 Tab5 FinishNav38
+1:18:19 Tab5 PageLoad
+1:18:27 Tab4 StartNav39 #typed
+1:18:27 Tab4 FinishNav39
+1:18:27 Tab4 PageLoad
+1:18:27 Memory Pressure: Moderate
+1:18:30 Tab4 StartNav40 #typed
+1:18:30 Tab4 FinishNav40
+1:18:30 Tab4 PageLoad
+1:18:37 Memory Pressure: Moderate
+1:18:47 Memory Pressure: Moderate
+1:18:57 Memory Pressure: Moderate
+1:19:03 Tab5 StartNav41 #typed
+1:19:04 Tab5 FinishNav41
+1:19:04 Tab5 PageLoad
+1:19:07 Memory Pressure: None
+1:19:22 Memory Pressure: Moderate
+1:19:32 Memory Pressure: Moderate
+1:19:42 Memory Pressure: Moderate
+1:19:52 Memory Pressure: Moderate
+1:20:02 Memory Pressure: Moderate
+1:20:13 Memory Pressure: Moderate
+1:20:23 Memory Pressure: Moderate
+1:20:33 Memory Pressure: Moderate
+1:20:43 Memory Pressure: Moderate
+1:20:48 Memory Pressure: None
+1:28:08 Memory Pressure: Moderate
+1:28:13 Memory Pressure: None
+1:29:48 Memory Pressure: Moderate
+1:29:58 Memory Pressure: Moderate
+1:30:09 Memory Pressure: Moderate
+1:30:19 Memory Pressure: None
+1:30:24 Memory Pressure: Moderate
+1:30:34 Memory Pressure: None
+1:32:01 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications

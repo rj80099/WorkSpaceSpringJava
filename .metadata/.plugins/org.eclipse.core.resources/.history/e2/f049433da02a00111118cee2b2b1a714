@@ -1,0 +1,5 @@
+package com.app.scope;
+
+public class Token {
+
+}

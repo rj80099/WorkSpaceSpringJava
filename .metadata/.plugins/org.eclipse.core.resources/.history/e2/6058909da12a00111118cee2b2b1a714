@@ -1,0 +1,8 @@
+package com.app.scope;
+
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan(basePackages="com.app.scope")
+public class MyAppConfig {
+
+}

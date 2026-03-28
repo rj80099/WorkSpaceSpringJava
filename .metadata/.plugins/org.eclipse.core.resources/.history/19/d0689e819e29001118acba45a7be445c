@@ -1,0 +1,23 @@
+package my.app;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.one.ViewResolver;
+
+import my.app.test.MyCacheData;
+
+public class Test {
+	public static void main(String[] args) {
+		AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(MyCacheData.class);		
+//		ac.scan("my.app");
+//		ac.refresh();
+		
+		HandlerInfo ob = ac.getBean("hob",HandlerInfo.class);
+		System.out.println(ob);
+		
+		ViewResolver v = ac.getBean("vr", ViewResolver.class);
+		System.out.println(v);
+	}
+
+}

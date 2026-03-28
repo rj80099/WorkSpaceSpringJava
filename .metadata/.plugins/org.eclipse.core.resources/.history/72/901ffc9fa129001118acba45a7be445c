@@ -1,0 +1,29 @@
+package com.app.test;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component("db")
+public class DatabaseConnetion {
+	
+	@Value("${my.db.driver}")
+	private String driver;
+	
+	@Value("${my.db-url}")
+	private String url;
+	
+	@Value("${my.db_user}")
+	private String username;
+	
+	@Value("${my.db-pwd}")
+	private String userpwd;
+
+	@Override
+	public String toString() {
+		return "DatabaseConnetion [driver=" + driver + ", url=" + url + ", username=" + username + ", userpwd="
+				+ userpwd + "]";
+	}
+	
+	
+
+}

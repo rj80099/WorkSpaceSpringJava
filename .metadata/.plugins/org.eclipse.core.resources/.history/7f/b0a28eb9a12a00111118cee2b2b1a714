@@ -1,0 +1,16 @@
+package com.app.scope;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+//@ComponentScan(basePackages="com.app.scope")
+@Configuration
+public class MyAppConfig {
+	
+	//1 bean = 1 method
+	public Token t1() {
+		Token t1 = new Token();
+		return t1;
+	}
+
+}
