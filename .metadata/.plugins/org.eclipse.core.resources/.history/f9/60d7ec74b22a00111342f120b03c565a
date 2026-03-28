@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component("t1")
-@Scope("singleton")
-//@Scope("prototype")
+//@Scope("singleton")
+@Scope("prototype")
 public class Token {
 	
 
