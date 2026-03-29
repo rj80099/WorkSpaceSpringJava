@@ -46,6 +46,9 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.app.schedule"/>
+			<item value="com.app.spel"/>
+			<item value="17SpringCoreSpELEx"/>
 			<item value="com.app"/>
 			<item value="com.app.scope"/>
 			<item value="my.app"/>
@@ -53,6 +56,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="19SpringCoreSchedulingEx"/>
+			<item value="17SpringcoreSpELEx"/>
+			<item value="com.app.spel"/>
+			<item value="16SpringCoreAutowiredInterfaceRef"/>
 			<item value="15SpringCoreLmiEx"/>
 			<item value="14SpringBeanScopeAnnotationEx"/>
 			<item value="13SpringBeanScopeXmlEx"/>
