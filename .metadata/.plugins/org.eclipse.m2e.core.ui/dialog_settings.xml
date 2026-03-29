@@ -46,13 +46,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.app.scope"/>
 			<item value="com.app"/>
+			<item value="com.app.scope"/>
 			<item value="my.app"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="15SpringCoreLmiEx"/>
 			<item value="14SpringBeanScopeAnnotationEx"/>
 			<item value="13SpringBeanScopeXmlEx"/>
 			<item value="SpringCoreAutowiredCase3Ex"/>
